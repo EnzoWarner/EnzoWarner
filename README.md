@@ -1,16 +1,22 @@
-### Hi there 👋
+Olá eu sou Enzo Warner 👋
 
-<!--
-**EnzoWarner/EnzoWarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 estou no 3º semestre de Análise de desenvolvimento de sistema na fatec Praia Grande
+- 🌱 Atualmente estou estudando C++
+- 🌱 Sei o basico de Java, mas continuando aprendendo sobre ele
+- 🌱 Sei o basico de C#, mas continuando aprendendo sobre ele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <a href="https://github.com/EnzoWarner)">
+  <img align="center" alt="Enzo-Java" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Enzo-Csharp" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Enzo-Cplusplus" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ </div>
+    
+  ##
+ 
+<div> 
+  <a href = "mailto:enzo_warner@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href = "mailto:enzowarner123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enzo-warner-te%C3%B3fanes-leite-martins-ferreira-200461276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
