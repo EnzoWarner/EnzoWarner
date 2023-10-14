@@ -1,7 +1,7 @@
 Olá eu sou Enzo Warner 👋
 
 - 🔭 estou no 3º semestre de Análise de desenvolvimento de sistema na fatec Praia Grande
-- 🌱 Atualmente estou estudando C++
+- 🌱 Atualmente estou estudando C++,HTML e CSS
 - 🌱 Sei o basico de Java, mas continuando aprendendo sobre ele
 - 🌱 Sei o basico de C#, mas continuando aprendendo sobre ele
 
@@ -10,6 +10,8 @@ Olá eu sou Enzo Warner 👋
   <img align="center" alt="Enzo-Java" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Enzo-Csharp" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Enzo-Cplusplus" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+      <img align="center" alt="Enzo-HTML" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Enzo-CSS" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
     
   ##
