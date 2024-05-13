@@ -31,3 +31,5 @@ Curso Análise de desenvolvimento de sistema pela Fatec Praia Grande, Atualmente
 </div>
 
 #
+![snake gif](https://github.com/EnzoWarner/EnzoWarner/blob/output/github-contribution-grid-snake.svg)
+#
