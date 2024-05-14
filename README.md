@@ -5,8 +5,14 @@ Curso Análise de desenvolvimento de sistema pela Fatec Praia Grande, Atualmente
 ##
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" style="vertical-align: top;" align='left'/> 
 <h3>Status</h3>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EnzoWarner&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" style="vertical-align: top;" align='left' alt="GitHub status">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoWarner&layout=compact&langs_count=7&theme=radical&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" style="vertical-align: top;" align='left' alt="GitHub status"/>
+
+<br>
+<br>
+
+<div style="display: flex; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EnzoWarner&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" style="vertical-align: top;" align='left' alt="GitHub status">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoWarner&layout=compact&langs_count=7&theme=radical&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" style="vertical-align: top;" align='left' alt="GitHub status"/>
+</div>
 
 <br>
 <br>
@@ -16,6 +22,7 @@ Curso Análise de desenvolvimento de sistema pela Fatec Praia Grande, Atualmente
 <br>
 
 ##
+
 <br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="80" height="80" img align='left'/> <h3>Linguagens</h3>
