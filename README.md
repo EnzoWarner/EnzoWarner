@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=Ffffff&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+o+Enzo+Warner!+%E2%9C%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+o+Enzo+Warner!+%E2%9C%A7)](https://git.io/typing-svg)
 
 
 Curso Análise de desenvolvimento de sistema pela Fatec Praia Grande, Atualmente no 4º semestre decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento basico é em linguagem Java, C#, C++ e atualmente estou estudando PHP, JavaScript, React, HTML e CSS e banco de dados SQL. Futuramente pretendo seguir a área de Full Stack. Sou uma pessoa curiosa e sempre aberta a aprender, o que me garante sempre um novo aprendizado.
@@ -22,8 +22,6 @@ Curso Análise de desenvolvimento de sistema pela Fatec Praia Grande, Atualmente
 <br>
 
 ##
-
-<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="80" height="80" img align='left'/> <h3>Linguagens</h3>
 <div style="display: inline_block"><br>
