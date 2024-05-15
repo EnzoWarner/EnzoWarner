@@ -30,7 +30,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+          # Personalização das cores
+          color_snake: "#FF0000"  # Cor da cobra
+          color_dots: "#00FF00, #0000FF, #FFFF00, #FF00FF"  # Cores dos blocos
           
       # Envia o conteúdo do diretório `dist` para um branch
       # O conteúdo estará disponível em https://raw.githubusercontent.com/<seu_usuario_github>/<seu_repositorio>/<branch_alvo>/<arquivo>
