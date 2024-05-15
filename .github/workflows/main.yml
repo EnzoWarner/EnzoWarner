@@ -31,7 +31,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-          
+      # Edita o SVG para adicionar uma cor de fundo
+      - name: Add background color to SVG
+        run: |
+          sed -i 's/<svg/<svg style="background-color:#000000;"/' dist/github-contribution-grid-snake.svg
+          sed -i 's/<svg/<svg style="background-color:#000000;"/' dist/github-contribution-grid-snake-dark.svg
+
       # Envia o conteúdo do diretório `dist` para um branch
       # O conteúdo estará disponível em https://raw.githubusercontent.com/<seu_usuario_github>/<seu_repositorio>/<branch_alvo>/<arquivo>
       - name: push github-contribution-grid-snake.svg to the output branch
