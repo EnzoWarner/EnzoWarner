@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=0000ff&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+o+Enzo+Warner!+%E2%9C%A7)](https://git.io/typing-svg)
 
 
-Estou Cursando Análise de desenvolvimento de sistema pela Fatec - Centro Paula Souza, Atualmente no 4º semestre decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento basico é em linguagem Java, C#, C++ e atualmente estou estudando PHP, JavaScript, React, HTML e CSS e banco de dados SQL. Futuramente pretendo seguir na área de Full Stack. Sou uma pessoa curiosa e sempre aberto a aprender.
+Estou Cursando Análise de desenvolvimento de sistema pela Fatec - Centro Paula Souza, Atualmente no 5º semestre decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento basico é em linguagem Java, C#, C++ e atualmente estou estudando PHP, JavaScript, React, HTML e CSS e banco de dados SQL. Futuramente pretendo seguir na área de Full Stack. Sou uma pessoa curiosa e sempre aberto a aprender.
 ##
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" style="vertical-align: top;" align='left'/> 
 <h3>Status</h3>
