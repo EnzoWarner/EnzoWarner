@@ -1,45 +1,52 @@
-name: generate animation
+# Ação do GitHub para gerar um gráfico de contribuições com uma cobra comendo suas contribuições.
+name: Generate Snake
 
+# Controla quando a ação será executada.
 on:
-  # Executar automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # Permite executar manualmente o job a qualquer momento
+      # a cada 12 horas
+    - cron: "0 */12 * * *"
+
+  # Este comando nos permite executar a Ação automaticamente a partir da aba de Ações.
   workflow_dispatch:
   
-  # Executar a cada push na branch master
+  # Também executa em todo push na branch master
   push:
     branches:
-      - master
-    
+    - main
+
+# A sequência de execuções neste fluxo de trabalho:
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  # Este fluxo de trabalho contém um único job chamado "build"
+  build:
+    # O tipo de runner que o job será executado
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+
+    # Etapas representam uma sequência de tarefas que serão executadas como parte do job
     steps:
-      # Gera um jogo de cobrinha a partir do gráfico de contribuições de um usuário do GitHub
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+    
+      - name: Gerar os arquivos da cobra em './dist/'
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
-          # Substitua <seu_usuario_github> pelo seu nome de usuário do GitHub
-          github_user_name: EnzoWarner
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # Envia o conteúdo do diretório `dist` para um branch
-      # O conteúdo estará disponível em https://raw.githubusercontent.com/<seu_usuario_github>/<seu_repositorio>/<branch_alvo>/<arquivo>
-      - name: push github-contribution-grid-snake.svg to the output branch
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Mostrar status da build
+        run: git status
+
+      - name: Enviar novos arquivos para a branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # Nome do branch de destino
           target_branch: output
-          # Diretório com os arquivos a serem enviados para o branch de destino
           build_dir: dist
+          commit_message: Atualizar animações da cobra
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
