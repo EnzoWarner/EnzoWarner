@@ -1,33 +1,33 @@
-# Ação do GitHub para gerar um gráfico de contribuições com uma cobra comendo suas contribuições.
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-# Controla quando a ação será executada.
+# Controls when the action will run.
 on:
   schedule:
-      # a cada 12 horas
+      # every 12 hours
     - cron: "0 */12 * * *"
 
-  # Este comando nos permite executar a Ação automaticamente a partir da aba de Ações.
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Também executa em todo push na branch master
+  # Also run on every push on the master branch
   push:
     branches:
     - main
 
-# A sequência de execuções neste fluxo de trabalho:
+# The sequence of runs in this workflow:
 jobs:
-  # Este fluxo de trabalho contém um único job chamado "build"
+  # This workflow contains a single job called "build"
   build:
-    # O tipo de runner que o job será executado
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Etapas representam uma sequência de tarefas que serão executadas como parte do job
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clonar repositório
+      - name: Clone repo
         uses: actions/checkout@v3
     
-      - name: Gerar os arquivos da cobra em './dist/'
+      - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -39,14 +39,14 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Mostrar status da build
+      - name: Show build status
         run: git status
 
-      - name: Enviar novos arquivos para a branch de saída
+      - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Atualizar animações da cobra
+          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
