@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=25&center=true&vCenter=true&width=1000&lines=%E2%9C%A7+Ol%C3%A1!,+Meu+Nome+é+Enzo+Warner+Teófanes+Leite+Martins+Ferreira+:%29+%E2%9C%A7)](https://git.io/typing-svg) 
 
-Estou Cursando Análise de desenvolvimento de sistema pela FatecPG, Atualmente no 5º semestre decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento basico é em linguagem Java, C#, C++, PHP, SQL e atualmente estou estudando JavaScript, React, React Native, HTML e CSS. Futuramente pretendo seguir na área de Full Stack. Sou uma pessoa curiosa e sempre aberto a aprender.
-
+Estou Cursando Análise de desenvolvimento de sistema pela FatecPG, Atualmente no 6º semestre decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento basico é em linguagem Java, C#, C++, PHP, SQL e atualmente estou estudando JavaScript, React, React Native, HTML e CSS. Futuramente pretendo seguir na área de Full Stack. Sou uma pessoa curiosa e sempre aberto a aprender.
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EnzoWarner&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Enzo Warner github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EnzoWarner&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Enzo Warner github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoWarner&layout=compact&hide_border=true&title_color=A020F0&text_color=c9d1d9&bg_color=0d1117" />
 </div><br>
 
@@ -58,7 +57,7 @@ Estou Cursando Análise de desenvolvimento de sistema pela FatecPG, Atualmente n
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EnzoWarner}/count.svg" /></p> 
+<p align="center"><img src="https://profile-counter.deno.dev/:EnzoWarner:/count.svg" alt="Key:: Visitor's Count" /></p>
 <br></div>
 
 ![snake gif](https://github.com/EnzoWarner/EnzoWarner/blob/output/github-contribution-grid-snake.svg)
